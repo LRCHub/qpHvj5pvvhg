@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "The Rumbling",
+  "base_artist": "SiM",
+  "createdAt": "2025-12-01T16:20:46.567648Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "King of the Rumbling Spires",
+      "artist": "T. Rex",
+      "has_synced": false,
+      "path": "select/01_King_of_the_Rumbling_Spires_T._Rex.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Rumbling",
+      "artist": "SiM",
+      "has_synced": true,
+      "path": "select/02_The_Rumbling_SiM.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Rumbling - Español",
+      "artist": "Nico Borie",
+      "has_synced": false,
+      "path": "select/03_The_Rumbling_-_Español_Nico_Borie.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Rumbling (Español)",
+      "artist": "Nico Borie",
+      "has_synced": false,
+      "path": "select/04_The_Rumbling_(Español)_Nico_Borie.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Rumbling",
+      "artist": "SiM",
+      "has_synced": true,
+      "path": "select/05_The_Rumbling_SiM.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Rumbling (Full Ver.)",
+      "artist": "Little V.",
+      "has_synced": true,
+      "path": "select/06_The_Rumbling_(Full_Ver.)_Little_V..lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Rumbling (Full Version)",
+      "artist": "Little V.",
+      "has_synced": true,
+      "path": "select/07_The_Rumbling_(Full_Version)_Little_V..lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Rumbling (Instrumental)",
+      "artist": "SiM",
+      "has_synced": true,
+      "path": "select/08_The_Rumbling_(Instrumental)_SiM.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Rumbling (TV Size)",
+      "artist": "SiM",
+      "has_synced": true,
+      "path": "select/09_The_Rumbling_(TV_Size)_SiM.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Rumbling (From \"Attack on Titan\")",
+      "artist": "Ryuven",
+      "has_synced": true,
+      "path": "select/10_The_Rumbling_(From__Attack_on_Titan_)_Ryuven.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Rumbling (Attack on Titan)",
+      "artist": "Ryuven",
+      "has_synced": true,
+      "path": "select/11_The_Rumbling_(Attack_on_Titan)_Ryuven.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Rumbling",
+      "artist": "Will Stetson feat. Hiraga",
+      "has_synced": false,
+      "path": "select/12_The_Rumbling_Will_Stetson_feat._Hiraga.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Rumbling (feat. HIRAGA)",
+      "artist": "Will Stetson",
+      "has_synced": false,
+      "path": "select/13_The_Rumbling_(feat._HIRAGA)_Will_Stetson.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Rumbling",
+      "artist": "SiM",
+      "has_synced": true,
+      "path": "select/14_The_Rumbling_SiM.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Rumbling (TV Size)",
+      "artist": "SiM",
+      "has_synced": true,
+      "path": "select/15_The_Rumbling_(TV_Size)_SiM.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Rumbling",
+      "artist": "Nico Borie",
+      "has_synced": false,
+      "path": "select/16_The_Rumbling_Nico_Borie.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rumbling hearts",
+      "artist": "栗林 みな実",
+      "has_synced": false,
+      "path": "select/pl_01_Rumbling_hearts_栗林_みな実.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Rumbling hearts",
+      "artist": "栗林 みな実",
+      "has_synced": false,
+      "path": "select/pl_02_Rumbling_hearts_栗林_みな実.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Rumbling hearts",
+      "artist": "栗林 みな実",
+      "has_synced": false,
+      "path": "select/pl_03_Rumbling_hearts_栗林_みな実.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "The Rumbling (TV Size)",
+      "artist": "栗林 みな実",
+      "has_synced": false,
+      "path": "select/pl_04_The_Rumbling_(TV_Size)_栗林_みな実.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "The Rumbling",
+      "artist": "栗林 みな実",
+      "has_synced": false,
+      "path": "select/pl_05_The_Rumbling_栗林_みな実.txt"
+    }
+  ]
+}
